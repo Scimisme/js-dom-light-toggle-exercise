@@ -24,3 +24,4 @@ function offBulb() {
 lightOn.addEventListener("click", onBulb);
 
 // Skriv selv koden, der lytter efter klik på "off"-knappen (lightOff) og kører din offBulb-funktion, når der klikkes
+lightOff.addEventListener("click", offBulb);
