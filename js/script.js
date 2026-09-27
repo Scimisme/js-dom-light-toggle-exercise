@@ -5,7 +5,7 @@
 const lightOn = document.getElementById("onBtn");
 
 // Skriv selv: hent "off"-knappen på samme måde, ved hjælp af dens id. Variablen skal hedde lightOff
-
+const lightOff = document.getElementById("offBtn")
 
 // Skriv selv: hent billedet på samme måde, ved hjælp af dets id. Variablen skal hedde bulb
 
