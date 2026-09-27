@@ -1,5 +1,5 @@
 // Husk fra dag 1: skriv "use strict" herunder
-
+"use strict";
 
 // Eksempel: vi henter "on"-knappen ved hjælp af dens id-attribut (husk fra HTML/CSS: id identificerer ét bestemt element)
 const lightOn = document.getElementById("onBtn");
